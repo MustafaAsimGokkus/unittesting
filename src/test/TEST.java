@@ -1,9 +1,10 @@
+package test;
+
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
 
-class StringTest {
-
+public class TEST {
     @Test
     void length_basic(){
         int actualLength = "abcdefg".length();
